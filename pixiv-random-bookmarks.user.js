@@ -4,6 +4,7 @@
 // @description Opens a random illustration from your bookmarks.
 // @version     0.1.0
 // @author      gcrtnst
+// @homepageURL https://github.com/gcrtnst/gm-pixiv-random-bookmarks
 // @match       https://www.pixiv.net/*
 // @noframes
 // @grant       GM_registerMenuCommand
