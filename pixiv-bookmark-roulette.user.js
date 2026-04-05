@@ -3,7 +3,7 @@
 // @name:ja        Pixiv ブックマークガチャ
 // @description    Opens a random illustration from your bookmarks.
 // @description:ja ブックマークしたイラスト作品の中からランダムに1つ選んで表示します。
-// @namespace      https://github.com/gcrtnst
+// @namespace      https://github.com/gcrtnst/
 // @version        0.2.1
 // @author         gcrtnst
 // @license        Unlicense
