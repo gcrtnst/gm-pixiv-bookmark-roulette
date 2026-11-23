@@ -56,7 +56,7 @@
         }
       }
 
-      location.href = `https://www.pixiv.net/artworks/${selectedWork.id}`;
+      location.assign(`https://www.pixiv.net/artworks/${selectedWork.id}`);
     } catch (error) {
       console.error(error);
       alert("An unexpected exception occurred.");
